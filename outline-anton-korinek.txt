@@ -1,0 +1,84 @@
+AI Agents for Economic Research
+│
+├── What Economists Can Do with Agents
+│   ├── Conduct literature reviews
+│   ├── Fetch & analyse economic data
+│   ├── Write & debug econometric code
+│   └── Coordinate complex research workflows
+│
+├── Key Tools
+│   ├── Vibe coding
+│   │   └── Programming through natural language
+│   └── Agentic frameworks
+│       └── LangGraph
+│
+├── From Chatbots to Agents
+│   ├── Traditional LLMs
+│   │   ├── Language generation & pattern recognition
+│   │   ├── Fast, low-cost, accessible
+│   │   └── Limitations
+│   │       ├── No reflection or revision
+│   │       └── Weak multi-step reasoning
+│   ├── Reasoning Models
+│   │   ├── Step-by-step logical reasoning
+│   │   ├── Strong in math & coding
+│   │   └── More expensive & slower
+│   └── Agentic Models
+│       ├── Combine language, reasoning & tools
+│       ├── Autonomous planning & action
+│       └── Handle end-to-end research tasks
+│
+├── Deep Research & Coding Agents
+│   ├── Deep Research Agents
+│   │   ├── Lead agent decomposes research question
+│   │   ├── Parallel specialised sub-agents
+│   │   ├── Rapid synthesis with citations
+│   │   ├── Advantages
+│   │   │   ├── Speed
+│   │   │   └── Automates literature review
+│   │   └── Limitations
+│   │       ├── Mostly summarise existing knowledge
+│   │       └── May miss frontier research
+│   ├── Coding Agents
+│   │   ├── Natural-language software creation
+│   │   ├── “Vibe coding”
+│   │   └── Enable non-programmers to build tools
+│   └── Democratisation
+│       ├── Lower technical barriers
+│       └── Level the research playing field
+│
+├── AI Agents: Basic Architecture
+│   ├── Orchestrator
+│   ├── Reasoning LLM
+│   ├── External tools (search, data, code)
+│   └── Memory
+│
+├── LangGraph for Research Agents
+│   ├── Think–Act–Observe loop
+│   ├── State management
+│   ├── Nodes & conditional paths
+│   ├── Parallel execution
+│   └── Benefits
+│       ├── Flexible workflows
+│       ├── Easier debugging
+│       └── Scalable research designs
+│
+├── Limitations & Risks
+│   ├── Hallucinations & incorrect citations
+│   ├── Brittleness to prompts
+│   ├── Weak economic reasoning in some cases
+│   └── Need for human oversight
+│
+├── Economic & Strategic Considerations
+│   ├── High computational cost
+│   ├── Unequal access to frontier models
+│   └── Growing competition lowering barriers
+│
+└── Implications for Economists
+    ├── Early stage of research automation
+    ├── AI augments rather than replaces economists
+    ├── Human judgment remains essential
+    │   ├── Choosing research questions
+    │   ├── Interpreting results
+    │   └── Evaluating welfare implications
+    └── Economists should learn to use & shape AI tools
